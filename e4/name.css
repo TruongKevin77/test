@@ -1,0 +1,12 @@
+body {
+    background-color: azure;
+    
+    font-family: 'Cinzel', serif;
+    
+    font-size: 20px;
+}
+
+div {
+    width: 800px;
+    margin: 50px auto;
+}
