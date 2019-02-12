@@ -1,0 +1,41 @@
+body {
+    background-color: darkslateblue; 
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    width: 130px;
+    height: 200px;
+    background-color: none;
+    display: block;
+    float: left;
+    margin: -30px -20px -10px 50px;
+    opacity: .9;
+    border-radius: 50%;
+    
+    transform: rotate(315deg);
+    
+   border: 10px dotted aqua;
+    
+        
+    
+}
+
+div:nth-child(6n){
+    background-color: blueviolet;
+    border-radius: 0%;
+}
+
+div:nth-child(3n){
+    background-color: darkcyan
+}
+
+div:nth-child(6n+1){
+    background-color: firebrick
+    
+}
+
+div:nth-child(5n+2){
+    background-color: darksalmon
+}

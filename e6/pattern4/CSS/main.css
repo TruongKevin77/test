@@ -10,25 +10,30 @@ div{
     background-color: bisque;
     display: block;
     float: left;
-    margin: -50px -60px 20px 10px;
-    opacity: .4;
-    border-radius: 100%;
-    border: 20px;
+    margin: -50px -50px -50px 50px;
+    opacity: .7;
+    border-radius: 0%;
+    
+    border: double;
+    border-width: 30px;
     border-color: aqua;
+    border-style: dashed:
+        
+    transform: rotate(45deg);
 }
 
 div:nth-child(5n){
-    background-color: aquamarine;
+    background-color: blueviolet
 }
 
 div:nth-child(3n){
-    background-color: cadetblue;
+    background-color: darkcyan
 }
 
 div:nth-child(5n+1){
-    background-color: dodgerblue;
+    background-color: firebrick
 }
 
 div:nth-child(5n+2){
-    background-color: deeppink;
+    background-color: darksalmon
 }
