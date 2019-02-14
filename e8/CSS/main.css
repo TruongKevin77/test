@@ -1,0 +1,33 @@
+body{
+ margin: 0px;   
+}
+
+.left-cricle, .right-circle, .heart{
+    background-color: deeppink;
+    position: absolute;
+}
+
+.left-circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    top: 250px;
+    left: 230px;
+}
+
+.right-circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    top: 250px;
+    left: 240px;
+}
+
+.heart{
+    width: 200x;
+    height: 200px;
+    transform: rotate(45deg);
+}
+
+
+
