@@ -1,10 +1,6 @@
 body{
-    margin: 0px;   
-    background-color: azure;
-}
-
-div{
-    background-color: deeppink;
+    margin: 0px;
+    background-color: #ffe8fb;
 }
 
 
@@ -19,7 +15,7 @@ div{
     position: absolute;
     width: 110px;
     height: 110px;
-    background-color: deeppink;
+    background-color: #ff2365;
     border-radius: 100%;
     top: 0px;
     left: 0px;
@@ -29,7 +25,7 @@ div{
     position: absolute;
     width: 110px;
     height: 110px;
-    background-color: deeppink;
+    background-color: #ff2365;
     top: 0px;
     left: 70px;
     border-radius: 100%;
@@ -39,7 +35,7 @@ div{
     position: absolute;
     width: 100px;
     height: 100px;
-    background-color: deeppink;
+    background-color: #ff2365;
     top: 47px;
     left: 40px;
     transform: rotate(45deg);
@@ -60,7 +56,7 @@ div{
     position: absolute;
     width: 110px;
     height: 110px;
-    background-color: deeppink;
+    background-color: #ff2365;
     border-radius: 100%;
     top: 0px;
     left: 0px;
@@ -70,7 +66,7 @@ div{
     position: absolute;
     width: 110px;
     height: 110px;
-    background-color: deeppink;
+    background-color: #ff2365;
     top: 0px;
     left: 70px;
     border-radius: 100%;
@@ -80,7 +76,7 @@ div{
     position: absolute;
     width: 100px;
     height: 100px;
-    background-color: deeppink;
+    background-color: #ff2365;
     top: 47px;
     left: 40px;
     transform: rotate(45deg);
@@ -102,7 +98,7 @@ div{
     position: absolute;
     width: 110px;
     height: 110px;
-    background-color: deeppink;
+    background-color: #ff2365;
     border-radius: 100%;
     top: 0px;
     left: 0px;
@@ -112,7 +108,7 @@ div{
     position: absolute;
     width: 110px;
     height: 110px;
-    background-color: deeppink;
+    background-color: #ff2365;
     top: 0px;
     left: 70px;
     border-radius: 100%;
@@ -122,7 +118,7 @@ div{
     position: absolute;
     width: 100px;
     height: 100px;
-    background-color: deeppink;
+    background-color: #ff2365;
     top: 47px;
     left: 40px;
     transform: rotate(45deg);
@@ -144,7 +140,7 @@ div{
     position: absolute;
     width: 110px;
     height: 110px;
-    background-color: deeppink;
+    background-color: #ff2365;
     border-radius: 100%;
     top: 0px;
     left: 0px;
@@ -154,7 +150,7 @@ div{
     position: absolute;
     width: 110px;
     height: 110px;
-    background-color: deeppink;
+    background-color: #ff2365;
     top: 0px;
     left: 70px;
     border-radius: 100%;
@@ -164,14 +160,12 @@ div{
     position: absolute;
     width: 100px;
     height: 100px;
-    background-color: deeppink;
+    background-color: #ff2365;
     top: 47px;
     left: 40px;
     transform: rotate(45deg);
 }
     
-
-
 
 
 .heartDesign{
@@ -193,5 +187,103 @@ div{
     left: 500px;
     
 }
+
+
+
+.gift{
+    position: absolute;
+    top: 150px;
+    left: 150px;
+    ;
+}
+
+.gift2{
+    position: absolute;
+    top: 150px;
+    left: 1130px;
+   
+}
+
+.gift3{
+    position: absolute;
+    top: 650px;
+    left: 640px;
+}
+
+.rect1{
+    background-color: #c60d45;
+    width: 200px;
+    height: 350px;
+}
+
+.rect2{
+    background-color: #ffe659;
+    position: absolute;
+    width: 200px;
+    height: 30px;
+    top: 260px;
+    left: 0px;
+}
+
+.rect3{
+    background-color: #ffe659;
+    position: absolute;
+    width: 30px;
+    height: 350px;
+    top: 0px;
+    left: 130px;
+}
+
+.tri1{
+    position: absolute;
+    top: 260px;
+    left: 100px;
+    width: 0px;
+    height: 0px;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 70px solid #bf4eac;
+    transform: rotate(45deg);
+}
+
+.tri2{
+    position: absolute;
+    top: 230px;
+    left: 130px;
+    width: 0px;
+    height: 0px;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 70px solid #bf4eac;
+    transform: rotate(225deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
