@@ -1,0 +1,13 @@
+body{
+    background-color: azure;
+    text-align: center;
+    margin-top: 100px;
+}
+h1{
+    font-size: 50px;
+    font-family: serif;
+}
+
+a{
+    font-size: 25px;
+}

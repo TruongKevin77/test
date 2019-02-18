@@ -1,0 +1,21 @@
+body{
+    background-color: azure;
+}
+
+div{
+    width: 650px;
+    margin: 50px auto;
+    margin-top: 100px;
+}
+
+p{
+    font-size: 35px;
+}
+
+
+
+h1{
+    font-style: oblique;
+    font-size: 40px;
+}
+
