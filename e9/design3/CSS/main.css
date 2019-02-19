@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    width: 600px;
+}
+
+.mainBody{
+    position: absolute;
+    left: 500px;
+    width: 600px;
+    height: 680px;
+}
+
+.top1{
+    float: left;
+    width: 600px;
+    height: 100px;
+    background-color: red;   
+    border-width: 7px;
+    border-color: white;
+    border-style: solid;
+}
+
+.top2{
+    float: left;
+    width: 600px;
+    height: 30px;
+    background-color: red;   
+    border-width: 7px;
+    border-color: white;
+    border-style: solid;
+}
+
+.center{
+    float: left;
+    width: 200px;
+    height: 450px;
+    background-color: red;   
+    border-width: 7px;
+    border-color: white;
+    border-style: solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
