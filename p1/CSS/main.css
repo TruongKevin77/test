@@ -1,13 +1,38 @@
 body{
     background-color: azure;
-    text-align: center;
     margin-top: 100px;
+    text-align: center;
+    
 }
 h1{
     font-size: 50px;
     font-family: serif;
+    font-style: oblique;
+}
+
+h2{
+    font-size: 38px;
 }
 
 a{
     font-size: 25px;
+    text-decoration-color: black;
+}
+
+a:hover{
+    color: crimson;
+}
+
+p{
+    font-size: 25px;
+}
+
+ul{
+    font-size: 25px;
+}
+
+div{
+    width: 600px;
+    margin: 50px auto;
+    text-align: left;
 }
