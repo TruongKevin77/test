@@ -16,11 +16,13 @@ h2{
 
 a{
     font-size: 25px;
-    text-decoration-color: black;
+    text-decoration-color: crimson;
+    text-decoration-style: wavy;
+    color: cadetblue;
 }
 
 a:hover{
-    color: crimson;
+    color: fuchsia;
 }
 
 p{
