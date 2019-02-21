@@ -18,3 +18,9 @@ img {
 h1{
     color: firebrick;
 }
+
+
+
+a:hover{
+    color: aqua;
+}
