@@ -19,8 +19,11 @@ h1{
     color: firebrick;
 }
 
-
+ul{
+    text-align: center;
+}
 
 a:hover{
     color: aqua;
 }
+
