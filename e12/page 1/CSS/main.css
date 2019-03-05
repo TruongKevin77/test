@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    text-align: center;
+}
+
+h1{
+    font-size: 120px;
+    font-family: 'Slabo 27px', serif;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+h2{
+    margin-bottom: 150px;
+    font-family: 'Slabo 27px', serif;
+}
+
+h3{
+    font-size: 23px;
+    font-family: 'Slabo 27px', serif;
+}
+
+div{
+    margin-left: 470px;
+    margin-right: 470px;
+    text-align: left;
+}
+
