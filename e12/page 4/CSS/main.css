@@ -1,0 +1,100 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    text-align: center;
+}
+
+h1{
+    font-size: 130px;
+    font-family: 'Overpass', sans-serif;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    letter-spacing: 10px;
+    line-height: 130px;
+}
+
+h2{
+    margin-bottom: 10px;
+    font-family: 'Overpass', sans-serif;
+    font-size: 40px;
+}
+
+h3{
+    margin-top: 00px;
+    font-size: 20px;
+    font-family: 'Overpass', sans-serif;
+}
+
+.header{
+    width: 500px;
+    position: absolute;
+    top: 50px;
+    left: 780px;
+}
+
+.Author{
+    width: 150px;
+    position: absolute;
+    top: 800px;
+    left: 220px;
+}
+
+.ChapterName{
+    width: 200px;
+    position: absolute;
+    top: 460px;
+    left: 1120px;
+}
+
+.ChapterNumber{
+    position: absolute;
+    top: 500px;
+    left: 200px;
+}
+
+.para1{
+    width: 430px;
+    margin-left: 80px;
+    line-height: 26px;
+    text-align: left;
+    font-size: 24px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.para2{
+    width: 430px;
+    margin-top: 380px;
+    margin-left: 550px;
+    line-height: 26px;
+    text-align: left;
+    font-size: 24px;
+}
+
+.para3{
+    width: 430px;
+    margin-right: 80px;
+    margin-left: 1020px;
+    line-height: 26px;
+    text-align: left;
+    font-size: 24px;}
+
+.para4{
+    width: 430px;
+    margin-left: 550px;
+    line-height: 26px;
+    text-align: left;
+    font-size: 24px;
+}
+
+.para5{
+    width: 430px;
+    margin-left: 80px;
+    line-height: 26px;
+    text-align: left;
+    font-size: 24px;
+}
