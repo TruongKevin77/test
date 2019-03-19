@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: azure;
+    font-size: 20px;
+    margin: 0px;
+    letter-spacing: 0.3px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+div {
+    font-family: 'Cinzel', serif;
+    width: 75vw;
+    margin: 25px auto;
+}
+
+p {
+    font-size: 18px;
+}
+
+@media only screen and (max-width: 600px) {
+    body{
+        background-color: aqua;
+    }
+    div{
+        width: 85vw;
+    }
+}
+
+@media only screen and (min-width: 900px) {
+    body{
+        background-color: bisque;
+    }
+    div{
+        width: 60vw;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    body{
+        background-color: darkcyan
+    }
+    div{
+        width: 50vw;
+    }
+}
