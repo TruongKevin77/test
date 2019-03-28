@@ -16,7 +16,7 @@ h1{
     text-align: center;
     font-size: 38px;
     width: 300px auto;
-    margin-top: 10px;
+    margin-top: 20px;
     margin-bottom: 25px;
 }
 
@@ -29,9 +29,10 @@ h2{
 }
 
 h3{
+    font-family: 'Cinzel', serif;
     letter-spacing: 0.2px;
     margin-top: 50px;
-    font-size: 22px;
+    font-size: 18px;
     font-style: italic;
 }
 
@@ -41,16 +42,17 @@ div{
 }
 
 p{
-    font-size: 13px;
+    font-size: 16px;
     letter-spacing: 0.5px;
-    font-family: 'Cinzel', serif;
+    font-family: 'Cormorant Garamond', serif;
+    margin-bottom: 30px;
 }
 
 ul{
     letter-spacing: 0.3px;
-    font-size: 13px;
+    font-size: 16px;
     line-height: 20px;
-    font-family: 'Cinzel', serif;
+    font-family: 'Cormorant Garamond', serif;
 }
     
 @media only screen and (min-width: 600px) {
@@ -58,20 +60,23 @@ ul{
         
     }
     div{
-        margin-left: 60px;
-        margin-right: 60px;
+        margin-left: 65px;
+        margin-right: 65px;
     }
 
     p{
-        font-size: 16px;
+        font-size: 20px;
+        line-height: 28px;
+        margin-bottom: 40px;
     }
     
     h3{
+        margin-top: 70px;
         font-size: 26px;
     }
     
     h1{
-        font-size: 46px;
+        font-size: 45px;
         
     }
     
@@ -80,7 +85,8 @@ ul{
     }
     
     ul{
-        line-height: 25px;
+        font-size: 20px;
+        line-height: 30px;
     }
     
 }
