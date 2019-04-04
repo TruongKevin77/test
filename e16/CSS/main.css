@@ -1,0 +1,65 @@
+body{
+    margin: 0px;
+}
+
+.full{
+    width: 100vw;
+    height: 50vw;
+}
+
+.black{
+    background-color: black;
+}
+
+.white{
+    color: white;
+}
+
+
+.antiquewhite{
+    background-color: antiquewhite;
+}
+
+.darksalmon{
+    background-color: darksalmon;
+}
+#title{
+    transition: all 2s ease;
+    padding-top: 250px;
+    
+}
+
+#header{
+    transition: all 3s ease;
+    
+}
+
+#one{
+    transition: all 2s ease;
+}    
+
+#two{
+    background-color: azure;
+}    
+
+#three{
+    background-color: darkcyan;
+}    
+
+#four{
+    background-color: darkmagenta;
+}    
+
+#five{
+    background-color: crimson;
+}
+
+h1{
+    text-align: center;
+    margin: 0px;
+    padding: 40vh 0 0 0;
+    font-size: 90px;
+    transition: all 2s ease;
+    margin-left: 400px;
+    margin-right: 400px;
+}

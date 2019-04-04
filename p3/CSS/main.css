@@ -42,6 +42,7 @@ div{
 }
 
 p{
+    line-height: 22px;
     font-size: 16px;
     letter-spacing: 0.5px;
     font-family: 'Cormorant Garamond', serif;
@@ -54,8 +55,19 @@ ul{
     line-height: 20px;
     font-family: 'Cormorant Garamond', serif;
 }
+
+.links{
+    list-style-type: none;
+    padding-left: 0px;
+    line-height: 50px;
+    text-align: center;
+    display: none;
+}
+
+
+
     
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 700px) {
     body{
         
     }
@@ -88,6 +100,66 @@ ul{
         font-size: 20px;
         line-height: 30px;
     }
+    
+@media only screen and (min-width: 1024px) {
+        h1{
+            
+        }
+        .sidebar{
+            width: 170px;
+            height: 470px;
+            background-color: white;
+            border-width: 2px;
+            border-color: black;
+            background-color: antiquewhite;
+            border-style: solid;
+            position: absolute;
+            left: -200px;
+        }
+        .sidebar2{
+            width: 170px;
+            height: 5000px;
+            border-width: 2px;
+            background-color: deepskyblue;
+            border-color: black;
+            border-style: solid;
+            position: absolute;
+            left: -200px;
+        }
+        a{
+            font-size: 16px;
+            font-family: 'Cormorant Garamond', serif;
+            text-align: center;
+            line-height: 20px;
+        }
+        a:hover{
+            color: darkturquoise;
+        }
+        
+        ul{
+            line-height: 40px;
+        }
+        
+        div{
+            margin-left: 200px;
+        }
+        h2{
+            line-height: 25px;
+        }
+        p{
+            margin-bottom: 50px;
+        }
+    
+        .links{
+            display: block;
+        }    
+    }
+    
+    @media only screen and (min-width: 1440px) {
+        
+        
+    }
+    
     
 }
 
