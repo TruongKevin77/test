@@ -102,9 +102,17 @@ ul{
     }
     
 @media only screen and (min-width: 1024px) {
-        h1{
-            
-        }
+    h1{
+        font-size: 60px;
+    }
+    
+    h2{
+        font-size: 20px;
+    }
+    
+    div{
+    
+    }
         .sidebar{
             width: 170px;
             height: 470px;
@@ -138,6 +146,7 @@ ul{
         
         ul{
             line-height: 40px;
+            
         }
         
         div{
@@ -156,8 +165,60 @@ ul{
     }
     
     @media only screen and (min-width: 1440px) {
+        h1{
+            margin-top: 60px;
+            font-size: 80px;
+        }
         
+        .links{
+            
+        }
         
+        .sidebar{
+            width: 210px;
+            height: 470px;
+            background-color: white;
+            border-width: 2px;
+            border-color: black;
+            background-color: antiquewhite;
+            border-style: solid;
+            position: absolute;
+            left: -200px;
+        }
+        .sidebar2{
+            width: 210px;
+            height: 5000px;
+            border-width: 2px;
+            background-color: deepskyblue;
+            border-color: black;
+            border-style: solid;
+            position: absolute;
+            left: -200px;
+        }
+        
+        p{
+            margin-left: 150px;
+            margin-right: 100px;
+        }
+        
+        h3{
+            margin-left: 150px;
+        }
+        
+        #pic1{
+            margin-left: 200px;
+            width: 800px;
+        }
+        
+        #pic2{
+            margin-left: 200px;
+            width: 850px;
+        }
+        
+        #mainlist{
+            margin-left: 150px;
+            margin-right: 100px;
+        }
     }
     
     

@@ -23,15 +23,84 @@ body{
 .darksalmon{
     background-color: darksalmon;
 }
+
+.azure{
+    background-color: azure;
+}
+
+.azure2{
+    color: azure;
+}
+
+.aqua{
+    color: aqua;
+}
+
+.aqua2{
+    color: aqua;
+    font-size: 150px;
+}
+
+.chartreuse{
+    background-color: chartreuse;
+}
+
+.darkviolet{
+    color: darkviolet;
+}
+
+.darkolivegreen2{
+    background-color: darkolivegreen;
+}
+
+.darkolivegreen{
+    color: darkolivegreen;
+}
+
+.gray{
+    background-color: gray;
+}
+
+.darkcyan{
+    background-color: darkcyan;
+}
+
+.crimson{
+    background-color: crimson;
+}
+
+.crimson2{
+    color: crimson;
+}
+
+.aquamarine{
+    background-color: aquamarine; 
+}
+
+.burlywood{
+    color: burlywood;
+}
+
+.darkmagenta{
+    background-color: darkmagenta;
+}
+
+.fuchsia{
+    color: fuchsia;
+    font-size: 100px;
+}
+
+.shrink{
+    font-size: 30px;
+}
+
 #title{
     transition: all 2s ease;
     padding-top: 250px;
-    
 }
 
 #header{
     transition: all 3s ease;
-    
 }
 
 #one{
@@ -39,19 +108,23 @@ body{
 }    
 
 #two{
-    background-color: azure;
+    transition: all 2.5s ease;
 }    
 
+#second{
+    transition: all 2s ease;
+}
+
 #three{
-    background-color: darkcyan;
+    transition: all 2s ease;
 }    
 
 #four{
-    background-color: darkmagenta;
+    transition: all 4s ease;
 }    
 
 #five{
-    background-color: crimson;
+    transition: all 5s ease;
 }
 
 h1{
