@@ -1,0 +1,104 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color:burlywood;
+    text-align: center;
+    margin: 0px;
+}
+
+h1{
+    color: firebrick;
+    font-size: 85px;
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+
+h2{
+    color: firebrick;
+    font-size: 60px;
+    margin-bottom: 50px;
+}
+
+.darkmegenta{
+    background-color: darkmagenta;
+}
+
+.coral{
+    background-color: coral;
+}
+
+.box{
+    background-color: coral;
+    width: 300px;
+    height: 200px;
+    color: azure;
+    font-size: 50px;
+}
+
+#rock{
+    position: absolute;
+    left: 150px;
+    transition: all 1s ease;
+}
+
+#textRock{
+    padding-bottom: 75px;
+    margin-top: 0px;
+    padding-top: 60px;
+}
+
+#textPaper{
+    padding-bottom: 75px;
+    margin-top: 0px;
+    padding-top: 60px;
+}
+
+#textScissors{
+    padding-bottom: 75px;
+    margin-top: 0px;
+    padding-top: 60px;
+}
+ 
+
+#paper{
+    position: absolute;
+    left: 620px;
+    transition: all 1s ease;
+}
+
+#scissors{
+    position: absolute;
+    left: 1090px;
+    transition: all 1s ease;
+}
+
+.go{
+    background-color: coral;
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    left: 620px;
+    top: 600px;
+    color: azure;
+}
+
+#GO{
+    position: absolute;
+    font-size: 50px;
+    left: 110px;
+    top: -30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
