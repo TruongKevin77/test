@@ -13,7 +13,6 @@ $(document).ready(function(){
         else{
             choiceRock = true;    
         }
-        
         console.log(choiceRock);       
     });
     
@@ -26,7 +25,6 @@ $(document).ready(function(){
         else{
             choicePaper = true;    
         }
-        
         console.log(choicePaper);       
     });
     
@@ -39,7 +37,6 @@ $(document).ready(function(){
         else{
             choiceScissors = true;    
         }
-        
         console.log(choiceScissors);       
     });
     
