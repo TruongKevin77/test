@@ -43,7 +43,6 @@ body {
 .container {
   width: 100vw;
   overflow: hidden;
-    background-color: dodgerblue;
 }
 .section {
   width: 50vw;
