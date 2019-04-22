@@ -28,6 +28,7 @@ h2{
     margin-right: 240px;
     border-color: black;
     border-style: solid;
+    cursor: pointer;
 }
 
 #reset:hover{
@@ -39,11 +40,10 @@ td{
     border: 5px solid black;
     width: 100px;
     height: 100px;
+    cursor: pointer;
 }
 
-td:hover{
-    
-}
+
 
 table{
     margin-left: 145px;
