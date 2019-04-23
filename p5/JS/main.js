@@ -71,7 +71,6 @@ $(document).ready(function(){
             if(counter == 9 && winner == false){
                 $('#playerTurn').text("Draw");
             }
-            counter
         }
     });
     
